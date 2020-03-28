@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyShoes</string>
+    <string name="main_title">&quot;نمی‌توانید خوشحالی را بخرید  اما می‌توانید کفش بخرید و خوشحالی  را احساس کنید&quot;</string>
+    <string name="password">رمز عبور</string>
+    <string name="email">ایمیل</string>
+    <string name="usename">نام کاربری</string>
+    <string name="signup">ثبت‌ نام</string>
+    <string name="login">ورود</string>
+</resources>
